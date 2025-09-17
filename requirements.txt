@@ -13,7 +13,7 @@ imageio==2.9.0
 imageio-ffmpeg==0.4.2
 moviepy==1.0.3
 numpy==1.21.0  # Updated for Python 3.10+
-Pillow==8.2.0  # Updated for compatibility with the latest Python versions
+Pillow==10.3.0  # Updated for compatibility with the latest Python versions
 proglog==0.1.9
 requests==2.25.1  # Updated for Python 3.10 and above
 tqdm==4.51.0
