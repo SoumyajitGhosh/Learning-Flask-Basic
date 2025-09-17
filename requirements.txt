@@ -1,0 +1,21 @@
+flask
+opencv-python
+certifi==2020.6.20
+chardet==4.0.0  # Updated for Python 3.10 and above
+click==7.1.2
+cmake==3.18.2.post1  # Updated for CMake compatibility with Python 3.10+
+decorator==4.4.2
+dlib==19.22.0  # Updated for compatibility with Python 3.10
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+idna==3.1  # Updated for Python 3.10 and above
+imageio==2.9.0
+imageio-ffmpeg==0.4.2
+moviepy==1.0.3
+numpy==1.21.0  # Updated for Python 3.10+
+Pillow==8.2.0  # Updated for compatibility with the latest Python versions
+proglog==0.1.9
+requests==2.25.1  # Updated for Python 3.10 and above
+tqdm==4.51.0
+urllib3==1.26.6  # Updated for Python 3.10 and above
+wincertstore==0.2  # Not typically required on macOS/Linux, consider removing if not on Windows
