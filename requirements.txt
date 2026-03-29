@@ -15,7 +15,7 @@ moviepy==1.0.3
 numpy==1.21.0  # Updated for Python 3.10+
 Pillow==8.2.0  # Updated for compatibility with the latest Python versions
 proglog==0.1.9
-requests==2.25.1  # Updated for Python 3.10 and above
+requests==2.32.4  # Updated for Python 3.10 and above
 tqdm==4.51.0
 urllib3==1.26.6  # Updated for Python 3.10 and above
 wincertstore==0.2  # Not typically required on macOS/Linux, consider removing if not on Windows
